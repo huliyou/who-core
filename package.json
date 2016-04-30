@@ -1,0 +1,22 @@
+{
+  "name": "who-core",
+  "version": "0.0.1",
+  "description": "who-core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huliyou/who-core.git"
+  },
+  "keywords": [
+    "who-core"
+  ],
+  "author": "huliyou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huliyou/who-core/issues"
+  },
+  "homepage": "https://github.com/huliyou/who-core#readme"
+}
