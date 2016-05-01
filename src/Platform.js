@@ -3,6 +3,7 @@
  * Created by leiyouwho on 1/5/2016.
  */
 
+
 var React = require('react-native');
 var {
   Platfrom,
@@ -20,7 +21,7 @@ if (window.document) {
   OS = 'other'
 }
 
-
 export default {
   OS,
 };
+
