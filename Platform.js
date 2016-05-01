@@ -3,7 +3,10 @@
  * Created by leiyouwho on 1/5/2016.
  */
 
-import { Platform } from 'react-native';
+var React = require('react-native');
+var {
+  Platfrom,
+} = React;
 
 var OS;
 
@@ -16,6 +19,7 @@ if (window.document) {
 } else {
   OS = 'other'
 }
+
 
 export default {
   OS,
