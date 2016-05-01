@@ -1,6 +1,6 @@
 {
   "name": "who-core",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "who-core",
   "main": "index.js",
   "scripts": {
