@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/huliyou/who-core/issues"
   },
-  "homepage": "https://github.com/huliyou/who-core#readme"
+  "homepage": "https://github.com/huliyou/who-core#readme",
+  "dependencies": {
+    "react": "^15.0.2",
+    "react-dom": "^15.0.2",
+    "react-native": "^0.24.1"
+  }
 }
